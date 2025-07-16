@@ -5,7 +5,6 @@ Idfi-2.0 is an advanced AI-based image analysis tool that leverages Microsoft Az
 ## 🔥 Live Demo
 
 * **Frontend**: [https://idfi-frontend.onrender.com](https://idfi-frontend.onrender.com)
-* **Backend (FastAPI)**: [https://idfi-backend.onrender.com](https://idfi-backend.onrender.com)
 * **Backend Repo**: [https://github.com/timey07/Idfi\_backend](https://github.com/timey07/Idfi_backend)
 
 ---
