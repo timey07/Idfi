@@ -61,7 +61,7 @@ Idfi/
 Create a `.env` file inside the `frontend/` directory:
 
 ```
-VITE_API_URL=https://idfi-backend.onrender.com
+VITE_API_URL="your backend url"
 ```
 
 ### Backend `.env`
